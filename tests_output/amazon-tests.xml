@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="amazon-tests"
+    errors="1" failures="0" hostname="" id="" package="amazon-tests" skipped="2"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+    <system-err>
+      [0;31m  Error: An error occurred while retrieving a new session: &#34;socket hang up&#34;[0m
+[0;90m       at Socket.socketCloseListener (_http_client.js:443:11)[0m
+    </system-err>
+  
+
+  
+    
+    <testcase
+      name="step one: navigate to ecosia.org" classname="amazon-tests">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="step two: click submit" classname="amazon-tests">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

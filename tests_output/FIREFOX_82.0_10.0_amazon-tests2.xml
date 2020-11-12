@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="amazon-tests2"
+    errors="0" failures="0" hostname="" id="" package="amazon-tests2" skipped="0"
+    tests="1" time="7.687" timestamp="">
+  
+    <testcase name="Search for unexisting product" classname="amazon-tests2" time="7.687" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
